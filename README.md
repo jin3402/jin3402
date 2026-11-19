@@ -115,7 +115,11 @@
 
 ## Recent Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->- [AX인재전쟁 × 삼일PwC: 28억 계약이 자동 갱신되기 전에 결정하게 만드는 AI 업무 앱](https://jin3402.github.io/posts/samilpwc-campaign-approval/) `2026-11-16` 
+- [AX Talent War × Samil PwC: an AI workflow app that forces a decision before a 2.8B KRW contract auto-renews](https://jin3402.github.io/en/posts/samilpwc-campaign-approval/) `2026-11-16` 
+- [Havruta AI Tutor: learning by explaining, not by collecting answers](https://jin3402.github.io/en/posts/havruta-ai-tutor/) `2026-08-20` 
+- [Havruta AI Tutor: 질문과 설명으로 공부하는 AI 학습 서비스](https://jin3402.github.io/posts/havruta-ai-tutor/) `2026-08-20` 
+- [겜세일: CORS와 스냅샷으로 만든 토스 미니앱 할인 큐레이션, 그리고 웹사이트](https://jin3402.github.io/posts/gamsale/) `2026-08-19` 
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
