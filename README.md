@@ -54,8 +54,6 @@
 | [**겜세일**](https://github.com/jin3402/gamsale) | 5개 플랫폼 할인 게임을 한 화면에 모은 토스 미니앱 + [웹사이트](https://gamsale.vercel.app) · 출시 1개월 오가닉 이용자 250명+ | ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
 | [**aurora-campaign-approval**](https://github.com/jin3402/aurora-campaign-approval) | AX인재전쟁 × 삼일PwC — 계약 자동 갱신 전, 결재자가 원본 근거로 결정하게 돕는 AI 업무 운영 앱 | ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | [**중간지점찾기**](https://github.com/jin3402/midpoint-finder) | 여러 출발지의 중간 위치와 주변 장소를 추천하는 토스 미니앱 (첫 실배포) | ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Kakao](https://img.shields.io/badge/Kakao_Map-FFCD00?style=flat-square&logo=kakao&logoColor=black) |
-| [**ScreenSwap**](https://github.com/jin3402/ScreenSwap) | 단축키 하나로 창을 다른 디스플레이로 옮기는 macOS 메뉴바 앱 | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) |
-| [**P to J**](https://github.com/jin3402/P-to-J) | 여행 메모를 날짜별 타임라인으로 바꿔 주는 iOS/watchOS 여행 플래너 | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) |
 
 <br/>
 
@@ -66,12 +64,10 @@
 **Languages**<br/>
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 
 **Frontend**<br/>
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
 
 **Backend & AI**<br/>
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
