@@ -28,11 +28,11 @@
   </tr>
   <tr>
     <td>💼 <b>Experience</b></td>
-    <td><b>Bain &amp; Company</b> Technology Services Group · IT Support Intern (2026.05 ~ 2026.08)</td>
+    <td><img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&amp;type=FAVICON&amp;fallback_opts=TYPE,SIZE,URL&amp;url=http://bain.com&amp;size=64" alt="Bain &amp; Company" height="16" align="absmiddle"/> <b>Bain &amp; Company</b> Technology Services Group · IT Support Intern (2026.05 ~ 2026.08)</td>
   </tr>
   <tr>
     <td>🏆 <b>Award</b></td>
-    <td>AX인재전쟁 온라인 1회차 (삼일PwC) <a href="https://axacademy.ai/axwar/cert/kbHt7cBPUn3l5OlJEOZvkebT"><b>상위 5%</b></a> (2026.11)<br/>우수논문상 — 한국정보기술전략혁신학회(KIITI) 동계학술대회 (2025.11)</td>
+    <td>AX인재전쟁 온라인 1회차 (삼일PwC) <a href="https://axacademy.ai/axwar/cert/kbHt7cBPUn3l5OlJEOZvkebT"><b>상위 5%</b></a> (2026.11)<br/>우수논문상 — 한국정보기술전략혁신학회(KIITI) 동계학술대회 (2025.11)<br/>&nbsp;&nbsp;└ 「AI 기반 여행지 추천 및 경로 추천 애플리케이션 개발」</td>
   </tr>
   <tr>
     <td>🎖️ <b>Military</b></td>
