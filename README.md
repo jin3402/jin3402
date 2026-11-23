@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td>🏆 <b>Award</b></td>
-    <td>우수논문상 — 한국정보기술전략혁신학회(KIITI) 동계학술대회 (2025.11)</td>
+    <td>AX인재전쟁 온라인 1회차 (삼일PwC) <a href="https://axacademy.ai/axwar/cert/kbHt7cBPUn3l5OlJEOZvkebT"><b>상위 5%</b></a> (2026.11)<br/>우수논문상 — 한국정보기술전략혁신학회(KIITI) 동계학술대회 (2025.11)</td>
   </tr>
   <tr>
     <td>🎖️ <b>Military</b></td>
@@ -50,9 +50,9 @@
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
+| [**AI 업무 운영 앱**](https://github.com/jin3402/aurora-campaign-approval) | AX인재전쟁 × 삼일PwC **상위 5%** — 계약 자동 갱신 전, 결재자가 원본 근거로 결정하게 돕는 AI 업무 운영 앱 | ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | [**하브루타 AI 튜터**](https://github.com/20211400jiho/havruta-ai-tutor) | 교육과정 자료 30만 건을 근거로 설명하고 되묻는 RAG 기반 AI 튜터 (팀 졸업작품, 테스트 61개) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 | [**겜세일**](https://github.com/jin3402/gamsale) | 5개 플랫폼 할인 게임을 한 화면에 모은 토스 미니앱 + [웹사이트](https://gamsale.vercel.app) · 출시 1개월 오가닉 이용자 250명+ | ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
-| [**aurora-campaign-approval**](https://github.com/jin3402/aurora-campaign-approval) | AX인재전쟁 × 삼일PwC — 계약 자동 갱신 전, 결재자가 원본 근거로 결정하게 돕는 AI 업무 운영 앱 | ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | [**중간지점찾기**](https://github.com/jin3402/midpoint-finder) | 여러 출발지의 중간 위치와 주변 장소를 추천하는 토스 미니앱 (첫 실배포) | ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Kakao](https://img.shields.io/badge/Kakao_Map-FFCD00?style=flat-square&logo=kakao&logoColor=black) |
 
 <br/>
