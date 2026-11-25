@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://jin3402.github.io">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=3182F6&center=true&vCenter=true&multiline=true&repeat=true&width=640&height=90&lines=Lee+Jin-Hyeong;Software+Engineer+%7C+AI+Service+%7C+DX" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=3182F6&center=true&vCenter=true&multiline=true&repeat=true&width=640&height=90&lines=Lee+Jin-Hyeong;Software+Engineer+%7C+AI+Service+%7C+AX" alt="Typing SVG" />
 </a>
 
 <br/>
